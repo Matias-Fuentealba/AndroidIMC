@@ -1,2 +1,3 @@
 # AndroidIMC
-Primer proyecto
+Primer proyecto en Kotlin.
+Calculadora para IMC
